@@ -1,3 +1,12 @@
-#LGC genomic prediction
+# LGC genomic prediction
 
-  Step 1: estimate the genetic value for each trait derived from the STGBLUP model (1.gblup.sh); Step 2: obtain SNP effects from the genetic value (2.gc_to_snpeff.py); Step 3: reweight SNP effects using the estimated local genetic correlations and calculate the adjusted genetic value (3.reweight_snpeff.py).
+
+The layout of the model is
+![image](https://github.com/Tengjun0520/lgc_genomic_prediction/model.png)
+
+## Requirements
+- [GMAT](https://github.com/chaoning/GMAT)
+- [PLINK](https://www.cog-genomics.org/plink/)
+- [Python 3.11](https://www.python.org/)
+
+## 
