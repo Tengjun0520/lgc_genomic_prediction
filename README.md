@@ -13,7 +13,7 @@ We presented three novel models for incorporating local genetic correlations int
 
 ## Example data
 
-There are genotype and phenotype data for 500 individuals as example data, which can be used to run all the scripts.
+There are genotype and phenotype data for 500 individuals as example data, which can be used to run all scripts.
 
 ## How to run script
 
