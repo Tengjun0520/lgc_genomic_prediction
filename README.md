@@ -13,7 +13,19 @@ We presented three novel models for incorporating local genetic correlations int
 
 ## Example data
 
-There were 500 individuals with genotype and phenotype data to run all codes (in 0.example_data/).
+There are genotype and phenotype data for 500 individuals as example data, which can be used to run all the scripts.
+
+## How to run script
+
+Taking LGC-model-1 as an example,
+
+### Step 1: calculate the genomic relationship matrix (GRM)
+
+python3 1.make.GRM.py
+
+### Step 2: run LGC-model-1
+
+bash 2.run.LGC-model-1.sh
 
 ## About
 
