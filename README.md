@@ -2,7 +2,7 @@
 
 ## Model summary
 
-We presented three novel models for incorporating local genetic correlations into multi-trait genomic prediction and compared our model with the conventional multi-trait genomic prediction model (MTGBLUP) and single trait model (STGBLUP). The models is as follows,
+We presented three novel models for incorporating local genetic correlations into multi-trait genomic prediction and compared our models with the conventional multi-trait genomic prediction model (MTGBLUP) and single trait model (STGBLUP). The models is as follows,
 ![](https://github.com/Tengjun0520/lgc_genomic_prediction/blob/main/model.png)
 
 ## Requirements
