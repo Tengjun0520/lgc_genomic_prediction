@@ -31,4 +31,4 @@ bash 2.run.LGC-model-1.sh
 
 If you want to know more details about the model, please read this paper
 
-Jun Teng, Dan Wang, Changheng Zhao, Xinyi Zhang, Hui Tang, Yingli Shang, Chao Ning and Qin Zhang. Improving multi-trait genomic prediction by incorporating local genetic correlations. in press.
+Jun Teng, Tingting Zhai,  Xinyi Zhang, Changheng Zhao, Wenwen Wang, Hui Tang, Chao Ning, Yingli Shang, Dan Wang and Qin Zhang. Improving multi-trait genomic prediction by incorporating local genetic correlations. in press.
