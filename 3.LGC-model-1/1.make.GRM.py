@@ -11,7 +11,7 @@ def process_line(line):
 
 def sig_pcut(p_thre):
     lgc = pd.read_csv('../0.example_data/tr1.tr2.7.bivar.lava', sep='\s+')
-    lgc_sig = lgc[lgc['p'] <= p_thre]
+    lgc_sig = lgc[lgc['p'] < p_thre]
     if lgc_sig.shape[0] > 0:
         lgc_sig[['chr','start','stop']].to_csv('sig.pos', index=None, header=None, sep='\t')
         res = pd.DataFrame()
