@@ -27,6 +27,10 @@ python3 1.make.GRM.py
 
 bash 2.run.LGC-model-1.sh
 
+### Step 3: calculate the total genetic values (GV)
+
+python3 3.merge_gv.py
+
 ## About
 
 If you want to know more details about the model, please read this paper
