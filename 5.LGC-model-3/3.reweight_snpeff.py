@@ -50,7 +50,7 @@ sig_val = 0.05 ##P_threshold
 
 df_lgc = pd.read_csv('{}'.format(lgc_file), sep = '\s+')
 df_lgc['reg_index'] = df_lgc['chr'].map(str) + '_' + df_lgc['start'].map(str)
-df_lgc_sig = df_lgc[df_lgc['p'] <= sig_val] ## sig lgc
+df_lgc_sig = df_lgc[df_lgc['p'] < sig_val] ## sig lgc
 
 lgc={}
 for a in open(lgc_file):
