@@ -2,7 +2,7 @@
 
 ## Model summary
 
-We presented three models for incorporating local genetic correlations into multi-trait genomic prediction. The LGC models is as follows,
+We presented three models for incorporating local genetic correlations into multi-trait genomic prediction. The LGC models are as follows,
 ![](https://github.com/Tengjun0520/lgc_genomic_prediction/blob/main/model.png)
 
 ## Requirements
