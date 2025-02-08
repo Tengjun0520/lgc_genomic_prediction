@@ -2,7 +2,7 @@
 
 ## Model summary
 
-We presented three novel models for incorporating local genetic correlations into multi-trait genomic prediction and compared our models with the conventional multi-trait genomic prediction model (MTGBLUP) and single trait model (STGBLUP). The models is as follows,
+We presented three models for incorporating local genetic correlations into multi-trait genomic prediction. The LGC models is as follows,
 ![](https://github.com/Tengjun0520/lgc_genomic_prediction/blob/main/model.png)
 
 ## Requirements
@@ -33,6 +33,6 @@ python3 3.merge_gv.py
 
 ## About
 
-If you want to know more details about the model, please read this paper
+If you want to know more details about the LGC models, please read this paper
 
-Jun Teng, Tingting Zhai,  Xinyi Zhang, Changheng Zhao, Wenwen Wang, Hui Tang, Chao Ning, Yingli Shang, Dan Wang* and Qin Zhang*. Improving multi-trait genomic prediction by incorporating local genetic correlations. in press.
+Jun Teng, Tingting Zhai,  Xinyi Zhang, Changheng Zhao, Wenwen Wang, Hui Tang, Chao Ning, Yingli Shang, Dan Wang* and Qin Zhang*. Improving multi-trait genomic prediction by incorporating local genetic correlations. Communications Biology, 2025.
